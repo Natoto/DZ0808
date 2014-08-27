@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration namespace="DefaultConfigure">
+    
+<appicon></appicon>
+<forumurl>http://114.215.178.111/amanmanceshi/forum.php</forumurl>
+<websiteurl>http://114.215.178.111/amanmanceshi/dztoapp/status.php</websiteurl>
+<weixinappid>wx5b05f60fb5c5defc</weixinappid>
+<sinaweiboappkey>3145388585</sinaweiboappkey>
+<downloadurl>http://114.215.178.111/amanmanceshi/forum.php</downloadurl>
+
+<idourl>http://iquapp.com/web/</idourl>
+<appid>ABCDAFAFASGASG</appid>
+<appname>满满</appname>
+<appversion>V1.0.1</appversion>
+<launchImage>defaultLaunchImage</launchImage>
+<navigationbar>
+        <backgroundColor>0X00AAF5</backgroundColor>
+        <backgroundImage></backgroundImage>
+</navigationbar>
+
+<tabbar>
+        <iconcolor>0x3f3f3f</iconcolor>
+        <selectediconcolor>0X00AAF5</selectediconcolor>
+        <backgroundColor>0XE7E7E7</backgroundColor>
+        <backgroundImage></backgroundImage>
+        <HighLightImage></HighLightImage>
+        <HighLightColor></HighLightColor>
+</tabbar>
+
+<aboutus>
+<abstract>
+    以下详述 易多idoapp 为您提供服务的条款：
+    
+    本协议详述您在 http://www.iquapp.com （"易多官网"）使用易多的服务所须遵守的条款和条件。如您有任何疑问，请及时联系本公司。
+    
+    用户在使用"iquapp.com"网站提供的服务之前，请认真阅读本服务条款，用户通过进入注册程序并勾选"我同意IdoApp合作协议"，即表示用户与易多已达成协议，自愿接受本服务条款的所有内容。
+    
+    1、 服务内容
+    
+    易多（www.iquapp.com）是专门为互联网网站免费转化生成移动互联网应用（以下简称：APP）并提供基础服务运营的平台，用户可免费通过易多打造自己网站的APP。
+    
+    "iquapp.com"网站有权在必要时修改本服务条款，请用户随时关注网站服务条款的修改。如果用户不同意所改动的内容，可以主动取消所有在"iquapp.com"网站的服务。
+    
+    本公司保留根据实际情况随时调整易多平台提供的服务种类、形式，本公司不承担因业务调整给用户造成的损失。
+    
+    2、 内容使用权
+    
+    用户通过“iquapp.com”网站开发的移动应用（除特殊注明以外），其知识产权均归开发用户个人所有，用户可以用于包括商业运营、出售、转让等在内的合法用途。用户不得对生成的安装包进行篡改、反编译等一切非法操作，由此产生的一切后果由用户自己承担，我方将保留依法追究侵权者法律责任的权利。
+    
+    易多app对应用上的图片logo、文字商标，包括图片logo、文字商标、内容的全部版权，拥有易多自建应用所提供的应用程序的全部知识产权.未经允许，任何人和团体不得以任何理由使用易多自建应用的图片和文字商标。
+    
+    3、 隐私保护
+    
+    " iquapp.com"网站注重对用户信息资源的保护，会使用各种安全技术和程序来保护用户信息资源不被未经授权的访问、使用和泄漏。 " iquapp.com"网站未经用户同意不向除合作单位以外的第三方公开、透露用户信息资源。
+    
+    4、 服务准则
+    
+    用户有义务如实填写、提供网站资料，并确保所提供资料的合法性与真实性，以便易多及时向用户提供相关移动互联应用服务和其它扩展服务。
+    
+    5、 违约责任
+    
+    双方如违反本服务条款有关规定，对方有权立即向对方提出停止合作要求，任何一方由于不可抗力的因素，致使协议无法履行时，经双方协商，可以变更或解除协议，并免除承担违约责任。
+    
+    6、法律适用及争议的解决
+    
+    服务条款的订立、效力、解释及履行均受中华人民共和国法律保护和管辖。如双方执行本协议过程中发生任何争议或纠纷，双方应通过友好协商解决，如协商不成，可向易多所在地仲裁委员会申请仲裁。
+    
+    7、 协议的终止
+    
+    双方有一方违反其在本服务条款中所做出的声明及保证或有其它违约行为，致使不能实现本服务条款目的，另一方有权单方解除本协议；如因不可抗力导致易多向用户提供的相应服务无法实现，双方经协商确认后可以解除本协议。
+</abstract>
+<email>
+    商务电话：18612987571
+    
+    客服QQ：13378484656
+    
+    客服Q群：373716137
+</email>
+<qq>
+    373716137
+</qq>
+<website>
+     http://www.iquapp.com>
+</website>
+<clientversion>
+    V 1.0.1
+</clientversion>
+</aboutus>
+</configuration>

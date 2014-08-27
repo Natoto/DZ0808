@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<ui namespace="D1_LoginBoard_iphone">
+    <col class="list-wrapper-group">
+        <row class="list-item-header"><!-- 行 -->
+            <!--用户名输入框-->
+            <image class="list-item-header-bg" />
+            <image class="input-icon-user" />
+            <input id="username" class="signin-input" placeholder="@{login_username}"></input>
+        </row>
+  
+        <!--密码输入框 -->
+      <row class="list-item-footer">
+          <image class="list-item-footer-bg" />
+          <image class="input-icon-password" />
+          <input id="password" class="signin-input done" placeholder="@{login_password}"></input>
+      </row>
+      <!--忘记密码 记住密码 -->
+      <row class="list-item-behind">
+          <button id="remembersecr" class="signin-remembersecr" >@{login_remenbersecret}</button>
+          <button id="forgetsecr" class="signin-forgetsecr" >@{login_forgetsecret}</button>
+      </row>
+    </col>
+    
+     <col class="signin-wrapper"> <!--登陆注册按钮-->
+         <row class="list-item-header">
+            <button id="signin">@{login_login}</button>
+         </row>
+         
+         <row class="list-item-header">
+        <button id="signup">@{login_register}</button>
+        </row>
+    </col>
+    
+    <style type="text/css">
+        
+        
+        
+        .signin-forgetsecr
+        {
+            width: 20%;
+            height: 90%;
+            position: absolute;
+            top: 0;
+            left: 70%;
+            margin-right:10px;
+            text-align:right;
+            color:#18C0FF;
+            background-image-highlighted:url(footer_active_bg.png);
+        }
+        
+        .signin-remembersecr
+        {
+            width: 20%;
+            height: 90%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            margin-left:10px;
+            text-align:left;
+            color:#18C0FF;
+            background-image-highlighted:url(footer_active_bg.png);
+        }
+        
+        .linear1
+        {
+            width:50%;
+            height:40px;
+            
+        }
+        
+		.input-icon-user {
+			margin-left: 10px;
+			margin-right: 10px;
+			width: 18px;
+			height: 18px;
+			image-src: url(log_in_user_name_icon.png);
+			image-mode: center;
+		}
+        
+		.input-icon-password {
+			margin-left: 10px;
+			margin-right: 10px;
+			width: 18px;
+			height: 18px;
+			image-src: url(log_in_key_icon.png);
+			image-mode: fit;
+		}
+        
+		.signup-wrapper {
+			width: 100%;
+			height: auto;
+		}
+        
+        
+		.signin-wrapper {
+        width: 100%;
+        height: auto;
+		}
+        
+        
+        #signin {
+        margin-top: 20px;
+        float: center;
+        height: 30px;
+        width: 60%;
+        float: center;
+        margin-right: 20;
+        button-title-color: #666;
+        background-image: url(nav_right);
+        background_mode:stretch;
+		}
+        
+		#signup {
+			margin-top: 20px;
+			float: center;
+			height: 30px;
+			width: 60%;
+			float: center;
+			margin-right: 20;
+			button-title-color: #666;
+            background-color: #EFEFEF;
+            border-radius:5px;
+		}
+        
+		.line {
+			margin-top: 1px;
+			float: center;
+			height: 1px;
+			width: 40%;
+			background-color: #666;
+		}
+		.signin-input {
+			height: 35px;
+			width: 255px;
+			line-height: 35px;
+			font: 16px;
+			input-clear: editing;
+			input-capitalization: none;
+			input-return-key: next;
+			input-correction: false;
+		}
+		.done {
+			input-secure: yes;
+			input-return-key: done;
+		}
+		#password {
+			input-secure: yes;
+			input-keyboard: abc;
+		}
+		.list-wrapper {
+			width: 100%;
+			align: center;
+			height: 44px;
+		}
+		.list-wrapper-group {
+			margin-left: 10px;
+			margin-top: 88px;
+			width: 300px;
+			align: center;
+			height: 140px;
+		}
+		.list-item {
+			margin-top: 10px;
+			width: 100%;
+			height: 44px;
+			v-align: center;
+		}
+		.list-item-header {
+			width: 100%;
+			height: 44px;
+			v-align: center;
+		}
+		.list-item-footer {
+			width: 100%;
+			height: 44px;
+			v-align: center;
+		}
+        .list-item-behind {
+            width: 100%;
+            height: 44px;
+            v-align: center;
+            
+		}
+		.list-item-header-bg {
+			width: 100%;
+			height: 100%;
+			position: absolute;
+			top: 0;
+			left: 0;
+			background-mode: stretch;
+			background-insets: 10px;
+			background-image: url(cell_bg_header.png);
+		}
+        .list-item-content-bg {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        background-mode: stretch;
+        background-insets: 10px;
+        background-image: url(cell_bg_content_small.png);
+		}
+        
+		.list-item-footer-bg {
+			width: 100%;
+			height: 100%;
+			position: absolute;
+			top: 0;
+			left: 0;
+			background-mode: stretch;
+			background-insets: 10px;
+			background-image: url(cell_bg_footer.png);
+		}
+		.list-item-bg {
+			width: 100%;
+			height: 100%;
+			position: absolute;
+			top: 0;
+			left: 0;
+			background-mode: stretch;
+			background-insets: 10px;
+			background-image: url(cell_bg_single.png);
+		}
+    </style>
+
+</ui> 

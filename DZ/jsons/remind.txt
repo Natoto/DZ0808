@@ -1,0 +1,85 @@
+{"REMIND": {
+        "ecode": 0,
+        "emsg": "",
+        "public": [
+            {
+                "uid": "MZgHO0O0OpO0O0O0",
+                "gpmid": "10",
+                "status": "0",
+                "dateline": "0"
+            },
+            {
+                "uid": "MZwHO0O0OpO0O0O0",
+                "gpmid": "10",
+                "status": "0",
+                "dateline": "0"
+            },
+            {
+                "uid": "NZAHO0O0OpO0O0O0",
+                "gpmid": "10",
+                "status": "0",
+                "dateline": "0"
+            },
+            {
+                "uid": "NZQHO0O0OpO0O0O0",
+                "gpmid": "10",
+                "status": "0",
+                "dateline": "0"
+            },
+            {
+                "uid": "NZgHO0O0OpO0O0O0",
+                "gpmid": "10",
+                "status": "0",
+                "dateline": "0"
+            }
+        ],
+        "dialog": [
+            {
+                "plid": "12",
+                "uid": "NZgHO0O0OpO0O0O0",
+                "isnew": "1",
+                "pmnum": "1",
+                "lastupdate": "0",
+                "lastdateline": "1401189879"
+            },
+            {
+                "plid": "13",
+                "uid": "NZwHO0O0OpO0O0O0",
+                "isnew": "1",
+                "pmnum": "1",
+                "lastupdate": "0",
+                "lastdateline": "1401189923"
+            }
+        ],
+        "automatic": [
+            {
+                "id": "19",
+                "uid": "NZwHO0O0OpO0O0O0",
+                "type": "system",
+                "new": "1",
+                "authorid": "0",
+                "author": "",
+                "note": "尊敬的dee，您已经注册成为Comsenz Inc.的会员，请您在发表言论时，遵守当地法律法规。\r\n如果您有什么疑问可以联系管理员，Email: admin@admin.com。\r\n\r\n\r\nDiscuz! Board\r\n2014-5-27 19:25",
+                "dateline": "1401189905",
+                "from_id": "0",
+                "from_idtype": "welcomemsg",
+                "from_num": "1",
+                "category": "3"
+            },
+            {
+                "id": "20",
+                "uid": "NZwHO0O0OpO0O0O0",
+                "type": "friend",
+                "new": "1",
+                "authorid": "1",
+                "author": "admin",
+                "note": "admin 请求加您为好友，附言：df  ",
+                "dateline": "1401189921",
+                "from_id": "1",
+                "from_idtype": "friendrequest",
+                "from_num": "1",
+                "category": "2"
+            }
+        ]
+    }
+}

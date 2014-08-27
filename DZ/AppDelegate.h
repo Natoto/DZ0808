@@ -7,9 +7,19 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "WXApi.h"
+#import "WeiboSDK.h"
+#import "bee.h"
+//#import "WeiboApi.h"
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
+@interface AppDelegate :  BeeUIApplication <WXApiDelegate,WeiboSDKDelegate>
 
-@property (strong, nonatomic) UIWindow *window;
+//@property  (nonatomic , retain) WeiboApi *wbapi;
+
+/*
+- (BOOL)checkWeChat;
+
+- (BOOL)checkSinaWeibo;
+ */
 
 @end

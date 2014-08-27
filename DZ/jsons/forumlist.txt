@@ -1,0 +1,238 @@
+{
+    "FORUMLIST": {
+        "ecode": 0, 
+        "emsg": "", 
+        "forums": [
+            {
+                "fid": "1", 
+                "name": "周边旅游", 
+                "type": "group", 
+                "icon": "", 
+                "threads": "0", 
+                "posts": "0", 
+                "todayposts": "0", 
+                "lastpost": null, 
+                "onlineusers": 0, 
+                "child": [
+                    {
+                        "fid": "2", 
+                        "name": "广州", 
+                        "type": "forum", 
+                        "icon": "http://103.254.108.31/mydis/data/attachment/common/c8/common_2_icon.png", 
+                        "threads": "31", 
+                        "posts": "60", 
+                        "todayposts": "0", 
+                        "lastpost": "1397820413", 
+                        "onlineusers": 0, 
+                        "child": null
+                    }, 
+                    {
+                        "fid": "36", 
+                        "name": "深圳", 
+                        "type": "forum", 
+                        "icon": "", 
+                        "threads": "3", 
+                        "posts": "5", 
+                        "todayposts": "0", 
+                        "lastpost": "1397817206", 
+                        "onlineusers": 0, 
+                        "child": null
+                    }, 
+                    {
+                        "fid": "37", 
+                        "name": "阳朔", 
+                        "type": "forum", 
+                        "icon": "", 
+                        "threads": "3", 
+                        "posts": "3", 
+                        "todayposts": "0", 
+                        "lastpost": "1397817298", 
+                        "onlineusers": 0, 
+                        "child": [
+                            {
+                                "fid": "51", 
+                                "name": "西街", 
+                                "type": "sub", 
+                                "icon": "", 
+                                "threads": "0", 
+                                "posts": "0", 
+                                "todayposts": "0", 
+                                "lastpost": "", 
+                                "onlineusers": 0
+                            }, 
+                            {
+                                "fid": "52", 
+                                "name": "遇龙桥", 
+                                "type": "sub", 
+                                "icon": "", 
+                                "threads": "0", 
+                                "posts": "0", 
+                                "todayposts": "0", 
+                                "lastpost": "", 
+                                "onlineusers": 0
+                            }
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "fid": "38", 
+                "name": "国内旅游", 
+                "type": "group", 
+                "icon": "", 
+                "threads": "0", 
+                "posts": "0", 
+                "todayposts": "0", 
+                "lastpost": null, 
+                "onlineusers": 0, 
+                "child": [
+                    {
+                        "fid": "39", 
+                        "name": "内蒙古", 
+                        "type": "forum", 
+                        "icon": "", 
+                        "threads": "2", 
+                        "posts": "2", 
+                        "todayposts": "0", 
+                        "lastpost": "1397817492", 
+                        "onlineusers": 0, 
+                        "child": null
+                    }, 
+                    {
+                        "fid": "40", 
+                        "name": "东北三省", 
+                        "type": "forum", 
+                        "icon": "", 
+                        "threads": "2", 
+                        "posts": "3", 
+                        "todayposts": "0", 
+                        "lastpost": "1397818764", 
+                        "onlineusers": 0, 
+                        "child": null
+                    }, 
+                    {
+                        "fid": "41", 
+                        "name": "北京周边", 
+                        "type": "forum", 
+                        "icon": "", 
+                        "threads": "1", 
+                        "posts": "2", 
+                        "todayposts": "0", 
+                        "lastpost": "1397818350", 
+                        "onlineusers": 0, 
+                        "child": null
+                    }, 
+                    {
+                        "fid": "42", 
+                        "name": "华东五省", 
+                        "type": "forum", 
+                        "icon": "", 
+                        "threads": "1", 
+                        "posts": "2", 
+                        "todayposts": "0", 
+                        "lastpost": "1397818314", 
+                        "onlineusers": 0, 
+                        "child": null
+                    }, 
+                    {
+                        "fid": "43", 
+                        "name": "陕西", 
+                        "type": "forum", 
+                        "icon": "", 
+                        "threads": "1", 
+                        "posts": "1", 
+                        "todayposts": "0", 
+                        "lastpost": "1397817816", 
+                        "onlineusers": 0, 
+                        "child": null
+                    }, 
+                    {
+                        "fid": "44", 
+                        "name": "新疆", 
+                        "type": "forum", 
+                        "icon": "", 
+                        "threads": "1", 
+                        "posts": "2", 
+                        "todayposts": "0", 
+                        "lastpost": "1397818288", 
+                        "onlineusers": 0, 
+                        "child": null
+                    }, 
+                    {
+                        "fid": "45", 
+                        "name": "西藏", 
+                        "type": "forum", 
+                        "icon": "", 
+                        "threads": "1", 
+                        "posts": "3", 
+                        "todayposts": "0", 
+                        "lastpost": "1397818717", 
+                        "onlineusers": 0, 
+                        "child": null
+                    }
+                ]
+            }, 
+            {
+                "fid": "46", 
+                "name": "境外旅游", 
+                "type": "group", 
+                "icon": "", 
+                "threads": "0", 
+                "posts": "0", 
+                "todayposts": "0", 
+                "lastpost": null, 
+                "onlineusers": 0, 
+                "child": [
+                    {
+                        "fid": "47", 
+                        "name": "欧洲九国", 
+                        "type": "forum", 
+                        "icon": "", 
+                        "threads": "1", 
+                        "posts": "2", 
+                        "todayposts": "0", 
+                        "lastpost": "1397818241", 
+                        "onlineusers": 0, 
+                        "child": null
+                    }, 
+                    {
+                        "fid": "48", 
+                        "name": "美国", 
+                        "type": "forum", 
+                        "icon": "", 
+                        "threads": "1", 
+                        "posts": "3", 
+                        "todayposts": "0", 
+                        "lastpost": "1397818381", 
+                        "onlineusers": 0, 
+                        "child": null
+                    }, 
+                    {
+                        "fid": "49", 
+                        "name": "俄罗斯", 
+                        "type": "forum", 
+                        "icon": "", 
+                        "threads": "1", 
+                        "posts": "1", 
+                        "todayposts": "0", 
+                        "lastpost": "1397818576", 
+                        "onlineusers": 0, 
+                        "child": null
+                    }, 
+                    {
+                        "fid": "50", 
+                        "name": "东南亚", 
+                        "type": "forum", 
+                        "icon": "", 
+                        "threads": "1", 
+                        "posts": "1", 
+                        "todayposts": "0", 
+                        "lastpost": "1397818666", 
+                        "onlineusers": 0, 
+                        "child": null
+                    }
+                ]
+            }
+        ]
+    }
+}

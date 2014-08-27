@@ -1,0 +1,108 @@
+{"ALLPM":{
+    "ecode": 0,
+    "emsg": "",
+    "grouppms": [
+        {
+            "touid": "1",
+            "author": "admin",
+            "message": "这是公共消息   公共消息",
+            "dateline": "1400657903"
+        },
+        {
+            "touid": "1",
+            "author": "admin",
+            "message": "第二条通知   这是第二条通知",
+            "dateline": "1400659104"
+        },
+        {
+            "touid": "1",
+            "author": "admin",
+            "message": "公共消息3   再试一条公共消息",
+            "dateline": "1400661575"
+        }
+    ],
+    "strangerms": [
+        [
+            {
+                "pmid": "29",
+                "plid": "9",
+                "authorid": "3",
+                "message": "你好吗 陌生人",
+                "delstatus": "0",
+                "dateline": "1401090588",
+                "touid": "3"
+            }
+        ]
+    ],
+    "friendms": [
+        [
+            {
+                "pmid": "2",
+                "plid": "2",
+                "authorid": "2",
+                "message": "你好",
+                "delstatus": "0",
+                "dateline": "1400464239",
+                "touid": "2"
+            },
+            {
+                "pmid": "7",
+                "plid": "2",
+                "authorid": "3",
+                "message": "fog123你好 我是321",
+                "delstatus": "0",
+                "dateline": "1400465020",
+                "touid": "3"
+            }
+        ],
+        [
+            {
+                "pmid": "1",
+                "plid": "1",
+                "authorid": "1",
+                "message": "第一条信息",
+                "delstatus": "0",
+                "dateline": "1400464204",
+                "touid": "1"
+            },
+            {
+                "pmid": "5",
+                "plid": "1",
+                "authorid": "1",
+                "message": "我是admin",
+                "delstatus": "0",
+                "dateline": "1400464822",
+                "touid": "1"
+            },
+            {
+                "pmid": "6",
+                "plid": "1",
+                "authorid": "3",
+                "message": "我是fog321",
+                "delstatus": "0",
+                "dateline": "1400465002",
+                "touid": "3"
+            }
+        ]
+    ],
+    "interactivems": [
+        {
+            "touid": "1",
+            "message": "admin 请求加您为好友，附言：ff  ",
+            "dateline": "1400464190"
+        },
+        {
+            "touid": "2",
+            "message": "fog123 请求加您为好友，附言：d  ",
+            "dateline": "1400464231"
+        }
+    ],
+    "systemms": [
+        {
+            "message": "尊敬的fog321，您已经注册成为Comsenz Inc.的会员，请您在发表言论时，遵守当地法律法规。\r\n如果您有什么疑问可以联系管理员，Email: admin@admin.com。\r\n\r\n\r\nDiscuz! Board\r\n2014-5-19 09:48",
+            "dateline": "1400464136"
+        }
+    ],
+    "nowdate": 1401090608
+}}
+

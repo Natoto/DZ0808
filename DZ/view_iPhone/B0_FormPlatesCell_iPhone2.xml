@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ui namespace="B0_FormPlatesCell_iPhone2">
+    
+    <col class="form-container">
+        <!-- 图片质量 -->
+        <label class="form-group-caption">@{setting_0plates}</label>
+        <col class="form-group">
+            <row class="form option">
+                <image class="background"/>
+                <label class="title">@{setting_0plates1}</label>
+            </row>
+            <row class="form option">
+                <image class="background"/>
+                <label class="title">@{setting_0plates2}</label>
+            </row>
+            <row class="form option">
+                <image class="background"/>
+                <label class="title">@{setting_0plates3}</label>
+            </row>
+            <row class="form option">
+                <image class="background"/>
+                <label class="title">@{setting_0plates4}</label>
+            </row>
+        </col>
+        <!-- 第二层 -->
+        <label class="form-group-caption">@{setting_1plates}</label>
+        <col class="form-group">
+            <row class="form option">
+                <image class="background"/>
+                <label class="title">@{setting_1plates1}</label>
+            </row>
+            <row class="form option">
+                <image class="background"/>
+                <label class="title">@{setting_1plates2}</label>
+            </row>
+        </col>
+        <!-- 第三层 -->
+        <label class="form-group-caption">@{setting_2plates}</label>
+        <col class="form-group">
+            <row class="form option">
+                <image class="background"/>
+                <label class="title">@{setting_2plates1}</label>
+            </row>
+            <row class="form option">
+                <image class="background"/>
+                <label class="title">@{setting_2plates2}</label>
+            </row>
+        </col>
+   </col>
+            
+        
+    <style>
+        .custom { padding: 0px 10px; margin: 10px 0;}
+        .logout.title { height: 44px; width: 100%; margin-left: 0; text-align: center; font-size: 20px; color: #fff; }
+        .logout.background { image: url(button_red.png); mode: stretch; }
+        
+    </style>
+</ui>

@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[RCLabel applyImageAttributes:attributes:atPosition:withLength:]:RCLabel.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[A0_BaseHomeViewController resizeScrollView:]:A0_BaseHomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.scrollView.contentSize">
+            </PersistentString>
+            <PersistentString
+               value = "self.scrollView.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[D0_Mine_iphone updateState]:D0_Mine_iphone.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DZ_SystemSetting valueofdzkey:]:DZ_SystemSetting.m">
+      </ContextState>
+      <ContextState
+         contextName = "MyGetSize:RCLabel.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[B2_TopicViewController2 tableView:cellForRowAtIndexPath:]:B2_TopicViewController2.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[A0_BaseHomeViewController updateViewButtonWithTitle:]:A0_BaseHomeViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[API_LOGIN_SHOTS routine]:user.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[API_REGISTERUSER_SHOTS routine]:registeruser.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[D1_Reply_OtherViewController tableView:cellForRowAtIndexPath:]:D1_Reply_OtherViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "text.length ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[D2_ChatMessageCell setMessageFrame:]:D2_ChatMessageCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.contentView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__27-[AddfriendModel gotoPage:]_block_invoke:AddfriendModel.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[B0_ForumPlates_iphone tableView:cellForRowAtIndexPath:]:B0_ForumPlates_iphone.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.selectedFiddic ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[A0_BaseHomeViewController addViewButtonWithTitle:]:A0_BaseHomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tileArray.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[EGORefreshTableHeaderView egoRefreshScrollViewDidScroll:]:EGORefreshTableHeaderView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_circleView.progress">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[B2_TopicTableViewCell datachanges:]:B2_TopicTableViewCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[B3_PostBaseTableViewCell loadVoteElement:index:OriginY:subContentAry:contents:]:B3_PostBaseTableViewCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[D1_LoginBoard_iphone handleUISignal_BeeUIBoard:]:D1_LoginBoard_iphone.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[API_FEEDBACK_SHOTS routine]:feedback.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[A0_HomePage1_iphone handleUISignal_A0_HomePage1_iphone_removeView:]:A0_HomePage1_iphone.m">
+      </ContextState>
+      <ContextState
+         contextName = "__22-[homeModel gotoPage:]_block_invoke:homeModel.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[A0_HomePage1_iphone handleNotification_B0_ForumPlates_iphone_FORUMREMOVEFROMEHOME:]:A0_HomePage1_iphone.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.ModeleBlocks">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[API_ADDFRIEND_SHOTS routine]:addfriend.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[RemindModel splitAutomotic:]:RemindModel.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[AllpmModel loadCache:]:AllpmModel.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[A0_BaseHomeViewController updateViewButtonWithTitle:index:]:A0_BaseHomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "view.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[RemindModel loadCache]:RemindModel.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[EGORefreshTableFooterView setselfalpha:scrollview:]:EGORefreshTableFooterView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "scrollview.contentSize.height">
+            </PersistentString>
+            <PersistentString
+               value = "self.alpha">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[B3_PostBaseTableViewCell loadselfdefinecontents:]:B3_PostBaseTableViewCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[B3_PostBaseTableViewCell loadTextOrFacial:index:OriginY:subContentAry:contents:]:B3_PostBaseTableViewCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ProfileCell_Items initWithFrame:]:ProfileCell_Items.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[A0_HomePage1_iphone reloadData]:A0_HomePage1_iphone.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[D1_Msg_InstationViewController tableView:numberOfRowsInSection:]:D1_Msg_InstationViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__27-[ForumlistModel gotoPage:]_block_invoke:ForumlistModel.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SETextView insertText:]:SETextView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.textLayout.textSelection.selectedRange">
+            </PersistentString>
+            <PersistentString
+               value = "self.textLayout">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SETextView updateCaretPositionToPoint:]:SETextView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[D2_Setting_AboutUsCellViewController tableView:cellForRowAtIndexPath:]:D2_Setting_AboutUsCellViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.detailTextLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[B0_ForumPlates_iphone handleNotification_A0_HomePage1_iphone_homepageItemChanged:]:B0_ForumPlates_iphone.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[B2_SearchViewController handleUISignal_SearchModel_RELOADED:]:B2_SearchViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[BeeUITextViewAgent textView:shouldChangeTextInRange:replacementText:]:Bee_UITextView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "signal.boolValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[C0_HairPost_SelectPlates pickerView:didSelectRow:inComponent:]:C0_HairPost_SelectPlates.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.subchildAry">
+            </PersistentString>
+            <PersistentString
+               value = "self.locate.child.child ">
+            </PersistentString>
+            <PersistentString
+               value = "self.locate.subchild">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[A0_BaseHomeViewController ReArrangTileViews:]:A0_BaseHomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tileArray.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[B3_PostViewController replybtnTap:]:B3_PostViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[C0_HairPost_SelectPlates handleUISignal_ForumlistModel_RELOADED:]:C0_HairPost_SelectPlates.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DZ_SystemSetting init]:DZ_SystemSetting.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[D2_Setting_2G3GNotLoadImgCell initWithStyle:reuseIdentifier:]:D2_Setting_2G3GNotLoadImgCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "switcher.center">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[EGORefreshTableFooterView egoRefreshScrollViewDidScroll:]:EGORefreshTableFooterView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "scrollView.contentOffset.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[RemindModel saveCache]:RemindModel.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[A0_TileView layoutSubviews]:A0_TileView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.synopsislbl.text">
+            </PersistentString>
+            <PersistentString
+               value = "self.synopsislbl.text.length">
+            </PersistentString>
+            <PersistentString
+               value = "self.imgView.loadedURL">
+            </PersistentString>
+            <PersistentString
+               value = "self.imgView.url">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DZ_SystemSetting nameWithInstance:target:]:DZ_SystemSetting.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[API_REPLAY_SHOTS routine]:reply.mm">
+      </ContextState>
+      <ContextState
+         contextName = "-[D0_Mine_iphone handleUISignal_UserModel_PROFILE_RELOADED:]:D0_Mine_iphone.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[A0_TileView dataChange:]:A0_TileView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.synopsislbl.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[B3_PostViewController keybordWillAppear:]:B3_PostViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "maskview.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[A2_PlatesSelectBoard_iphone handleUISignal_BeeUIBoard:]:A2_PlatesSelectBoard_iphone.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_ModeleBlocks">
+            </PersistentString>
+            <PersistentString
+               value = "self.delegate.ModeleBlocks">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[D1_Msg_SystemViewController viewDidLoad]:D1_Msg_SystemViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[C0_HairPost_SelectPlates initWithTitle:delegate:]:C0_HairPost_SelectPlates.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[homeModel readOnff]:homeModel.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[D2_Feedback textViewDidChange:]:D2_Feedback.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[B3_PostBaseTableViewCell loadImages:index:OriginY:subContentAry:contents:]:B3_PostBaseTableViewCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "imgview.indicator">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__38-[AllpmModel getMessageWithtype:date:]_block_invoke:AllpmModel.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[B0_ForumPlates_iphone buttonPressedTap:indexPath:mark:]:B0_ForumPlates_iphone.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.selectedFiddic ">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[API_HOME_SHOTS routine]:home.mm">
+      </ContextState>
+      <ContextState
+         contextName = "-[DZ_SystemSetting aboutus:]:DZ_SystemSetting.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

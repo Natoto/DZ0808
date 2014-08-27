@@ -1,0 +1,63 @@
+{"MYREPLY":{
+    "ecode": 0,
+    "emsg": "",
+    "page": 1,
+    "totalPage": 1,
+    "isEnd": 1,
+    "myreply": [
+        {
+            "author": "admin",
+            "authorid": "MZQHO0O0OpO0O0O0",
+            "subject": "区域回复测试",
+            "dateline": "1399945402",
+            "tid": "87",
+            "fid": "38",
+            "avatar": "http://localhost/discuz31gbk/uc_server/data/avatar/000/00/00/01_avatar_middle.jpg"
+        },
+        {
+            "author": "中文名",
+            "authorid": "MZgHO0O0OpO0O0O0",
+            "subject": "fsffs",
+            "dateline": "1399607144",
+            "tid": "76",
+            "fid": "36",
+            "avatar": "http://localhost/discuz31gbk/uc_server/images/noavatar_middle.gif"
+        },
+        {
+            "author": "中文名",
+            "authorid": "MZgHO0O0OpO0O0O0",
+            "subject": "图片测试2",
+            "dateline": "1398324950",
+            "tid": "29",
+            "fid": "38",
+            "avatar": "http://localhost/discuz31gbk/uc_server/images/noavatar_middle.gif"
+        },
+        {
+            "author": "admin",
+            "authorid": "MZQHO0O0OpO0O0O0",
+            "subject": "车辆1",
+            "dateline": "1398062030",
+            "tid": "2",
+            "fid": "36",
+            "avatar": "http://localhost/discuz31gbk/uc_server/data/avatar/000/00/00/01_avatar_middle.jpg"
+        },
+        {
+            "author": "中文名",
+            "authorid": "MZgHO0O0OpO0O0O0",
+            "subject": "区域4",
+            "dateline": "1398152463",
+            "tid": "7",
+            "fid": "38",
+            "avatar": "http://localhost/discuz31gbk/uc_server/images/noavatar_middle.gif"
+        },
+        {
+            "author": "中文名",
+            "authorid": "MZgHO0O0OpO0O0O0",
+            "subject": "区域3",
+            "dateline": "1398152451",
+            "tid": "6",
+            "fid": "38",
+            "avatar": "http://localhost/discuz31gbk/uc_server/images/noavatar_middle.gif"
+        }
+    ]
+}}
